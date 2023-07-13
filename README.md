@@ -2,8 +2,7 @@
 
 Day -1
 
-Softwares for developement - Installed all softwares and checked it
-Linux Commands
+Softwares for developement - Installed all softwares,Linux Commands and checked it
 
 Day -2 
 
