@@ -7,3 +7,11 @@ Softwares for developement - Installed all softwares,Linux Commands and checked 
 Day -2 
 
 Git and github - Gone through all git commands 
+
+Day -3
+
+Web development
+
+Day -5
+
+OOPs concepts
