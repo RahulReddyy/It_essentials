@@ -14,4 +14,4 @@ Web development
 
 Day -5
 
-OOPs concepts
+OOPs concepts - read about oops concepts, jenkins, basics of kafka
