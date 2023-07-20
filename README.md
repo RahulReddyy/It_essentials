@@ -15,3 +15,9 @@ Web development
 Day -5
 
 OOPs concepts - read about oops concepts, jenkins, basics of kafka
+
+
+Day -7
+
+Sql - ddl, dml, dcl commands
+      joins 
