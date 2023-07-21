@@ -22,6 +22,6 @@ Day -7
 Sql - ddl, dml, dcl commands
       joins, procedures, aggregate functions and other commands
 
-Day - 8 
+Day - 9
     Testing
 
