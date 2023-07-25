@@ -25,3 +25,8 @@ Sql - ddl, dml, dcl commands
 Day - 9
     Testing
 
+Day - 10 
+     ran CI-CD pipelines using jenkins but some errors
+Day -11
+      API
+
